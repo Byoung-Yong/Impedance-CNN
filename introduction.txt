@@ -1,0 +1,1 @@
+# Determination of Equivalent Circuits for Electrochemical Impedance Spectra using AI’s Convolution Neural Network
